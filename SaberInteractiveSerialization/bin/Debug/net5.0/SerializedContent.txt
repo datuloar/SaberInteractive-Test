@@ -1,0 +1,3 @@
+﻿Node one:2
+Node two:0
+Node three:1

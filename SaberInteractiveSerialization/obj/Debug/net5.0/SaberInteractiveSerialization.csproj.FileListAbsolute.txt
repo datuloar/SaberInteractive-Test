@@ -1,0 +1,16 @@
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.exe
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.deps.json
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.runtimeconfig.json
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.runtimeconfig.dev.json
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.dll
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\ref\SaberInteractiveSerialization.dll
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\bin\Debug\net5.0\SaberInteractiveSerialization.pdb
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.csproj.AssemblyReference.cache
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.AssemblyInfoInputs.cache
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.AssemblyInfo.cs
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.csproj.CoreCompileInputs.cache
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.dll
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\ref\SaberInteractiveSerialization.dll
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.pdb
+C:\Users\facec\source\repos\SaberInteractiveSerialization\SaberInteractiveSerialization\obj\Debug\net5.0\SaberInteractiveSerialization.genruntimeconfig.cache
